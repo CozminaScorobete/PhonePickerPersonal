@@ -9,3 +9,7 @@ IDE for web developemant
 PowerBI
 Xampp & phpMyAdmin
 
+**Screenshots:**
+![Screenshot](https://github.com/CozminaScorobete/PhonePickerPersonal/blob/main/home.png)
+![Screenshot](https://github.com/CozminaScorobete/PhonePickerPersonal/blob/main/information.png)
+![Screenshot](https://github.com/CozminaScorobete/PhonePickerPersonal/blob/main/chat-bot.png)
